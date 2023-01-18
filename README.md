@@ -4,6 +4,8 @@
 
 ![Lucas D GitHub stats](https://github-readme-stats.vercel.app/api?username=Durukar&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Durukar&theme=radical&layout=compact)](https://github.com/Durukar/github-readme-stats)
+
 ## Tecnologias que eu uso no meu dia
 
 <div style=display: inline_block><br/>
