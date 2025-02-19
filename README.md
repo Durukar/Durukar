@@ -1,6 +1,6 @@
 # Lucas Davila
 
-Java Backend Developer
+Java Backend Pleno
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Davila-986DFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkeding.com/in/lucasdaviladev)](https://www.linkedin.com/in/lucasdaviladev/)
 
