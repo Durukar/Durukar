@@ -6,6 +6,11 @@ Java Backend Pleno
 
 Me chamo Lucas Davila. Sou atualmente desenvolvedor Full Stack porem com foco em desenvolvimento backend utilizando a linguagem Java. Sou extremamente viciado em estudar e aprender coisas novas.
 
+Possuo projetos nos mais diversos escopos, desde SAAS, libs customizadas, scrappers, ERP e muito mais!
+
+
+## Um pouco mais sobre mim
+
 Minha primeira experiencia com desenvolvimento foi na criação de um banco de dados para estoque utilizando VBA e Access, de la para ca tentei ser desenvolvedor python com foco em automação de processos,
 mas foi com o Java e o Typescript que consegui minha primeira oportunidade como desenvolvedor e para mostrar meus conhecimentos.
 
