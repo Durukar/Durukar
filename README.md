@@ -1,5 +1,5 @@
 # [Lucas Davila](https://ladavila.com/)
-*Java Backend Pleno*
+*Desenvolvedor FullStack*
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Davila-986DFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasdaviladev)](https://www.linkedin.com/in/lucasdaviladev/)
 
@@ -42,6 +42,10 @@ Tecnologias: `Java`, `Spring Boot`, `PostgreSQL`
 *Descrição breve do projeto.*
 Tecnologias: `TypeScript`, `React`, `Node.js`
 -->
+**[WinterFramework](https://github.com/Durukar/WinterFramework)**
+*Framework JS com objetivo de portar o JavaSpring para o ambiente JS*
+Tecnologias: `Typescript`, `Hono`, `DrizzleORM`
+
 
 ---
 
